@@ -1,20 +1,20 @@
 {
-    "updated_at": "30/08/2026 12:52",
+    "updated_at": "04/09/2026 22:00",
     "ranking": [
         {
             "symbol": "NVDA",
             "name": "NVIDIA Corporation",
-            "current_price": 217.55,
-            "score": 25.5,
-            "upside_pct": 48.7,
+            "current_price": 230.36,
+            "score": 26.5,
+            "upside_pct": 42.0,
             "details": {
                 "upside": {
                     "note": 5,
-                    "valeur": 48.7
+                    "valeur": 42.0
                 },
                 "recommandation": {
                     "note": 4,
-                    "valeur": 1.9180327868852458
+                    "valeur": 1.9166666666666667
                 },
                 "analystes": {
                     "note": 4.5
@@ -33,11 +33,11 @@
                 },
                 "valorisation": {
                     "note": 4,
-                    "valeur": 14.2
+                    "valeur": 14.9
                 },
                 "momentum": {
-                    "note": 2,
-                    "valeur": 3.2
+                    "note": 3,
+                    "valeur": 12.3
                 },
                 "marge": {
                     "note": 5,
@@ -46,59 +46,15 @@
             }
         },
         {
-            "symbol": "ASML.AS",
-            "name": "ASML HOLDING",
-            "current_price": 1494.4,
-            "score": 24.0,
-            "upside_pct": 35.2,
-            "details": {
-                "upside": {
-                    "note": 5,
-                    "valeur": 35.2
-                },
-                "recommandation": {
-                    "note": 4,
-                    "valeur": 2.0
-                },
-                "analystes": {
-                    "note": 4.5
-                },
-                "sante": {
-                    "note": 5,
-                    "valeur": {
-                        "debt_to_equity": 9.09,
-                        "profit_margin": 30.11
-                    }
-                },
-                "croissance": {
-                    "note": 4.5,
-                    "eps_growth": 28.5,
-                    "revenue_growth": 21.3
-                },
-                "valorisation": {
-                    "note": 2,
-                    "valeur": 28.9
-                },
-                "momentum": {
-                    "note": 3,
-                    "valeur": 7.0
-                },
-                "marge": {
-                    "note": 5,
-                    "valeur": 30.1
-                }
-            }
-        },
-        {
             "symbol": "MSFT",
             "name": "Microsoft Corporation",
-            "current_price": 513.53,
-            "score": 23.0,
-            "upside_pct": 10.9,
+            "current_price": 499.7,
+            "score": 24.0,
+            "upside_pct": 14.7,
             "details": {
                 "upside": {
                     "note": 3,
-                    "valeur": 10.9
+                    "valeur": 14.7
                 },
                 "recommandation": {
                     "note": 4,
@@ -121,11 +77,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 21.8
+                    "valeur": 21.2
                 },
                 "momentum": {
-                    "note": 3,
-                    "valeur": 14.3
+                    "note": 4,
+                    "valeur": 20.1
                 },
                 "marge": {
                     "note": 5,
@@ -136,13 +92,13 @@
         {
             "symbol": "JPM",
             "name": "JP Morgan Chase & Co.",
-            "current_price": 357.62,
+            "current_price": 358.61,
             "score": 22.75,
-            "upside_pct": 4.7,
+            "upside_pct": 4.5,
             "details": {
                 "upside": {
                     "note": 2,
-                    "valeur": 4.7
+                    "valeur": 4.5
                 },
                 "recommandation": {
                     "note": 3,
@@ -169,7 +125,7 @@
                 },
                 "momentum": {
                     "note": 4,
-                    "valeur": 20.0
+                    "valeur": 15.2
                 },
                 "marge": {
                     "note": 5,
@@ -180,17 +136,17 @@
         {
             "symbol": "GOOGL",
             "name": "Alphabet Inc.",
-            "current_price": 346.59,
+            "current_price": 338.46,
             "score": 22.5,
-            "upside_pct": 23.5,
+            "upside_pct": 26.5,
             "details": {
                 "upside": {
                     "note": 4,
-                    "valeur": 23.5
+                    "valeur": 26.5
                 },
                 "recommandation": {
                     "note": 4,
-                    "valeur": 1.875
+                    "valeur": 1.873015873015873
                 },
                 "analystes": {
                     "note": 4.0
@@ -209,11 +165,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 23.4
+                    "valeur": 22.8
                 },
                 "momentum": {
                     "note": 1,
-                    "valeur": -8.8
+                    "valeur": -8.1
                 },
                 "marge": {
                     "note": 5,
@@ -222,22 +178,110 @@
             }
         },
         {
-            "symbol": "SAP.DE",
-            "name": "SAP SE                        I",
-            "current_price": 191.32,
-            "score": 22.5,
-            "upside_pct": 8.6,
+            "symbol": "ASML.AS",
+            "name": "ASML HOLDING",
+            "current_price": 1467.4,
+            "score": 22.0,
+            "upside_pct": 38.5,
             "details": {
                 "upside": {
+                    "note": 5,
+                    "valeur": 38.5
+                },
+                "recommandation": {
+                    "note": 4,
+                    "valeur": 1.9534883720930232
+                },
+                "analystes": {
+                    "note": 4.5
+                },
+                "sante": {
+                    "note": 5,
+                    "valeur": {
+                        "debt_to_equity": 9.09,
+                        "profit_margin": 30.11
+                    }
+                },
+                "croissance": {
+                    "note": 4.5,
+                    "eps_growth": 28.5,
+                    "revenue_growth": 21.3
+                },
+                "valorisation": {
                     "note": 2,
-                    "valeur": 8.6
+                    "valeur": 28.4
+                },
+                "momentum": {
+                    "note": 1,
+                    "valeur": -1.9
+                },
+                "marge": {
+                    "note": 5,
+                    "valeur": 30.1
+                }
+            }
+        },
+        {
+            "symbol": "AMZN",
+            "name": "Amazon.com, Inc.",
+            "current_price": 258.51,
+            "score": 21.5,
+            "upside_pct": 26.9,
+            "details": {
+                "upside": {
+                    "note": 4,
+                    "valeur": 26.9
+                },
+                "recommandation": {
+                    "note": 4,
+                    "valeur": 1.7868852459016393
+                },
+                "analystes": {
+                    "note": 4.0
+                },
+                "sante": {
+                    "note": 4,
+                    "valeur": {
+                        "debt_to_equity": 45.62,
+                        "profit_margin": 17.44
+                    }
+                },
+                "croissance": {
+                    "note": 4.5,
+                    "eps_growth": 242.3,
+                    "revenue_growth": 19.6
+                },
+                "valorisation": {
+                    "note": 3,
+                    "valeur": 24.9
+                },
+                "momentum": {
+                    "note": 3,
+                    "valeur": 5.1
+                },
+                "marge": {
+                    "note": 3,
+                    "valeur": 17.4
+                }
+            }
+        },
+        {
+            "symbol": "SAP.DE",
+            "name": "SAP SE                        I",
+            "current_price": 185.68,
+            "score": 21.0,
+            "upside_pct": 11.9,
+            "details": {
+                "upside": {
+                    "note": 3,
+                    "valeur": 11.9
                 },
                 "recommandation": {
                     "note": 3,
                     "valeur": 2.0357142857142856
                 },
                 "analystes": {
-                    "note": 2.5
+                    "note": 3.0
                 },
                 "sante": {
                     "note": 4,
@@ -253,11 +297,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 22.9
+                    "valeur": 22.2
                 },
                 "momentum": {
-                    "note": 5,
-                    "valeur": 25.3
+                    "note": 3,
+                    "valeur": 12.9
                 },
                 "marge": {
                     "note": 4,
@@ -268,20 +312,20 @@
         {
             "symbol": "TTE.PA",
             "name": "TOTALENERGIES",
-            "current_price": 74.67,
-            "score": 20.5,
-            "upside_pct": 10.3,
+            "current_price": 76.1,
+            "score": 20.0,
+            "upside_pct": 8.0,
             "details": {
                 "upside": {
-                    "note": 3,
-                    "valeur": 10.3
+                    "note": 2,
+                    "valeur": 8.0
                 },
                 "recommandation": {
                     "note": 4,
-                    "valeur": 2.0
+                    "valeur": 1.6666666666666667
                 },
                 "analystes": {
-                    "note": 3.5
+                    "note": 3.0
                 },
                 "sante": {
                     "note": 4,
@@ -312,13 +356,13 @@
         {
             "symbol": "AIR.PA",
             "name": "AIRBUS SE",
-            "current_price": 203.05,
+            "current_price": 198.96,
             "score": 19.0,
-            "upside_pct": 13.7,
+            "upside_pct": 16.1,
             "details": {
                 "upside": {
                     "note": 3,
-                    "valeur": 13.7
+                    "valeur": 16.1
                 },
                 "recommandation": {
                     "note": 3,
@@ -341,11 +385,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 23.3
+                    "valeur": 22.8
                 },
                 "momentum": {
                     "note": 3,
-                    "valeur": 14.5
+                    "valeur": 12.4
                 },
                 "marge": {
                     "note": 2,
@@ -354,59 +398,15 @@
             }
         },
         {
-            "symbol": "AMZN",
-            "name": "Amazon.com, Inc.",
-            "current_price": 266.43,
-            "score": 18.5,
-            "upside_pct": 22.7,
-            "details": {
-                "upside": {
-                    "note": 4,
-                    "valeur": 22.7
-                },
-                "recommandation": {
-                    "note": 4,
-                    "valeur": 1.7833333333333334
-                },
-                "analystes": {
-                    "note": 4.0
-                },
-                "sante": {
-                    "note": 4,
-                    "valeur": {
-                        "debt_to_equity": 45.62,
-                        "profit_margin": 17.44
-                    }
-                },
-                "croissance": {
-                    "note": 4.5,
-                    "eps_growth": 242.3,
-                    "revenue_growth": 19.6
-                },
-                "valorisation": {
-                    "note": 2,
-                    "valeur": 25.6
-                },
-                "momentum": {
-                    "note": 1,
-                    "valeur": -1.6
-                },
-                "marge": {
-                    "note": 3,
-                    "valeur": 17.4
-                }
-            }
-        },
-        {
             "symbol": "JNJ",
             "name": "Johnson & Johnson",
-            "current_price": 268.04,
+            "current_price": 275.15,
             "score": 18.5,
-            "upside_pct": 1.7,
+            "upside_pct": 0.2,
             "details": {
                 "upside": {
                     "note": 2,
-                    "valeur": 1.7
+                    "valeur": 0.2
                 },
                 "recommandation": {
                     "note": 3,
@@ -429,11 +429,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 21.8
+                    "valeur": 22.4
                 },
                 "momentum": {
                     "note": 4,
-                    "valeur": 19.5
+                    "valeur": 18.8
                 },
                 "marge": {
                     "note": 4,
@@ -442,19 +442,63 @@
             }
         },
         {
+            "symbol": "SU.PA",
+            "name": "SCHNEIDER ELECTRIC SE",
+            "current_price": 288.0,
+            "score": 18.5,
+            "upside_pct": 13.2,
+            "details": {
+                "upside": {
+                    "note": 3,
+                    "valeur": 13.2
+                },
+                "recommandation": {
+                    "note": 4,
+                    "valeur": 1.8333333333333333
+                },
+                "analystes": {
+                    "note": 3.5
+                },
+                "sante": {
+                    "note": 3,
+                    "valeur": {
+                        "debt_to_equity": 84.12,
+                        "profit_margin": 11.27
+                    }
+                },
+                "croissance": {
+                    "note": 4.0,
+                    "eps_growth": 29.3,
+                    "revenue_growth": 9.8
+                },
+                "valorisation": {
+                    "note": 3,
+                    "valeur": 23.9
+                },
+                "momentum": {
+                    "note": 2,
+                    "valeur": 2.2
+                },
+                "marge": {
+                    "note": 3,
+                    "valeur": 11.3
+                }
+            }
+        },
+        {
             "symbol": "AAPL",
             "name": "Apple Inc.",
-            "current_price": 319.7,
+            "current_price": 319.97,
             "score": 18.0,
-            "upside_pct": 1.5,
+            "upside_pct": 1.4,
             "details": {
                 "upside": {
                     "note": 2,
-                    "valeur": 1.5
+                    "valeur": 1.4
                 },
                 "recommandation": {
                     "note": 3,
-                    "valeur": 2.4545454545454546
+                    "valeur": 2.5
                 },
                 "analystes": {
                     "note": 2.5
@@ -477,7 +521,7 @@
                 },
                 "momentum": {
                     "note": 2,
-                    "valeur": 2.5
+                    "valeur": 4.2
                 },
                 "marge": {
                     "note": 4,
@@ -486,103 +530,15 @@
             }
         },
         {
-            "symbol": "SAN.PA",
-            "name": "SANOFI",
-            "current_price": 77.25,
-            "score": 18.0,
-            "upside_pct": 22.0,
-            "details": {
-                "upside": {
-                    "note": 4,
-                    "valeur": 22.0
-                },
-                "recommandation": {
-                    "note": 3,
-                    "valeur": 2.4166666666666665
-                },
-                "analystes": {
-                    "note": 3.5
-                },
-                "sante": {
-                    "note": 4,
-                    "valeur": {
-                        "debt_to_equity": 33.89,
-                        "profit_margin": 8.09
-                    }
-                },
-                "croissance": {
-                    "note": 1.5,
-                    "eps_growth": -91.2,
-                    "revenue_growth": 14.6
-                },
-                "valorisation": {
-                    "note": 5,
-                    "valeur": 8.5
-                },
-                "momentum": {
-                    "note": 2,
-                    "valeur": 1.2
-                },
-                "marge": {
-                    "note": 2,
-                    "valeur": 8.1
-                }
-            }
-        },
-        {
-            "symbol": "SU.PA",
-            "name": "SCHNEIDER ELECTRIC SE",
-            "current_price": 301.75,
-            "score": 18.0,
-            "upside_pct": 8.0,
-            "details": {
-                "upside": {
-                    "note": 2,
-                    "valeur": 8.0
-                },
-                "recommandation": {
-                    "note": 4,
-                    "valeur": 1.8333333333333333
-                },
-                "analystes": {
-                    "note": 3.0
-                },
-                "sante": {
-                    "note": 3,
-                    "valeur": {
-                        "debt_to_equity": 84.12,
-                        "profit_margin": 11.27
-                    }
-                },
-                "croissance": {
-                    "note": 4.0,
-                    "eps_growth": 29.3,
-                    "revenue_growth": 9.8
-                },
-                "valorisation": {
-                    "note": 2,
-                    "valeur": 25.0
-                },
-                "momentum": {
-                    "note": 3,
-                    "valeur": 11.3
-                },
-                "marge": {
-                    "note": 3,
-                    "valeur": 11.3
-                }
-            }
-        },
-        {
             "symbol": "ACA.PA",
             "name": "CREDIT AGRICOLE",
-            "current_price": 18.44,
+            "current_price": 18.805,
             "score": 17.25,
-            "upside_pct": 12.0,
+            "upside_pct": 10.1,
             "details": {
                 "upside": {
                     "note": 3,
-                    "valeur": 12.0
+                    "valeur": 10.1
                 },
                 "recommandation": {
                     "note": 2,
@@ -605,11 +561,11 @@
                 },
                 "valorisation": {
                     "note": 5,
-                    "valeur": 7.4
+                    "valeur": 7.6
                 },
                 "momentum": {
                     "note": 3,
-                    "valeur": 11.5
+                    "valeur": 13.9
                 },
                 "marge": {
                     "note": 4,
@@ -618,22 +574,66 @@
             }
         },
         {
-            "symbol": "MC.PA",
-            "name": "LVMH",
-            "current_price": 458.15,
-            "score": 16.0,
-            "upside_pct": 24.0,
+            "symbol": "SAN.PA",
+            "name": "SANOFI",
+            "current_price": 76.26,
+            "score": 17.0,
+            "upside_pct": 23.6,
             "details": {
                 "upside": {
                     "note": 4,
-                    "valeur": 24.0
+                    "valeur": 23.6
+                },
+                "recommandation": {
+                    "note": 3,
+                    "valeur": 2.4166666666666665
+                },
+                "analystes": {
+                    "note": 3.5
+                },
+                "sante": {
+                    "note": 4,
+                    "valeur": {
+                        "debt_to_equity": 33.89,
+                        "profit_margin": 8.09
+                    }
+                },
+                "croissance": {
+                    "note": 1.5,
+                    "eps_growth": -91.2,
+                    "revenue_growth": 14.6
+                },
+                "valorisation": {
+                    "note": 5,
+                    "valeur": 8.4
+                },
+                "momentum": {
+                    "note": 1,
+                    "valeur": -0.2
+                },
+                "marge": {
+                    "note": 2,
+                    "valeur": 8.1
+                }
+            }
+        },
+        {
+            "symbol": "MC.PA",
+            "name": "LVMH",
+            "current_price": 429.1,
+            "score": 16.5,
+            "upside_pct": 31.9,
+            "details": {
+                "upside": {
+                    "note": 5,
+                    "valeur": 31.9
                 },
                 "recommandation": {
                     "note": 3,
                     "valeur": 2.1538461538461537
                 },
                 "analystes": {
-                    "note": 3.5
+                    "note": 4.0
                 },
                 "sante": {
                     "note": 3,
@@ -649,11 +649,11 @@
                 },
                 "valorisation": {
                     "note": 4,
-                    "valeur": 18.0
+                    "valeur": 16.9
                 },
                 "momentum": {
                     "note": 1,
-                    "valeur": -7.0
+                    "valeur": -9.5
                 },
                 "marge": {
                     "note": 3,
@@ -664,17 +664,17 @@
         {
             "symbol": "OR.PA",
             "name": "L'OREAL",
-            "current_price": 388.5,
-            "score": 15.5,
-            "upside_pct": 7.5,
+            "current_price": 383.9,
+            "score": 16.5,
+            "upside_pct": 9.0,
             "details": {
                 "upside": {
                     "note": 2,
-                    "valeur": 7.5
+                    "valeur": 9.0
                 },
                 "recommandation": {
                     "note": 3,
-                    "valeur": 2.3333333333333335
+                    "valeur": 2.25
                 },
                 "analystes": {
                     "note": 2.5
@@ -693,11 +693,11 @@
                 },
                 "valorisation": {
                     "note": 2,
-                    "valeur": 26.1
+                    "valeur": 25.8
                 },
                 "momentum": {
-                    "note": 1,
-                    "valeur": -0.5
+                    "note": 2,
+                    "valeur": 3.5
                 },
                 "marge": {
                     "note": 3,
@@ -708,20 +708,20 @@
         {
             "symbol": "PG",
             "name": "Procter & Gamble Company (The)",
-            "current_price": 143.78,
-            "score": 15.0,
-            "upside_pct": 11.7,
+            "current_price": 146.45,
+            "score": 14.5,
+            "upside_pct": 9.7,
             "details": {
                 "upside": {
-                    "note": 3,
-                    "valeur": 11.7
+                    "note": 2,
+                    "valeur": 9.7
                 },
                 "recommandation": {
                     "note": 3,
                     "valeur": 2.24
                 },
                 "analystes": {
-                    "note": 3.0
+                    "note": 2.5
                 },
                 "sante": {
                     "note": 3,
@@ -737,11 +737,11 @@
                 },
                 "valorisation": {
                     "note": 3,
-                    "valeur": 19.4
+                    "valeur": 19.8
                 },
                 "momentum": {
                     "note": 2,
-                    "valeur": 0.9
+                    "valeur": 0.7
                 },
                 "marge": {
                     "note": 3,
@@ -752,17 +752,17 @@
         {
             "symbol": "RKLB",
             "name": "Rocket Lab Corporation",
-            "current_price": 64.39,
+            "current_price": 64.26,
             "score": 12.5,
-            "upside_pct": 75.4,
+            "upside_pct": 72.7,
             "details": {
                 "upside": {
                     "note": 5,
-                    "valeur": 75.4
+                    "valeur": 72.7
                 },
                 "recommandation": {
                     "note": 3,
-                    "valeur": 2.0555555555555554
+                    "valeur": 2.0526315789473686
                 },
                 "analystes": {
                     "note": 4.0
@@ -781,11 +781,11 @@
                 },
                 "valorisation": {
                     "note": 0,
-                    "valeur": 1287.8
+                    "valeur": 1446.0
                 },
                 "momentum": {
                     "note": 0,
-                    "valeur": -55.1
+                    "valeur": -41.6
                 },
                 "marge": {
                     "note": 0,
@@ -796,13 +796,13 @@
         {
             "symbol": "NESN.SW",
             "name": "NESTLE N",
-            "current_price": 78.62,
-            "score": 11.0,
-            "upside_pct": 12.4,
+            "current_price": 78.31,
+            "score": 12.0,
+            "upside_pct": 12.8,
             "details": {
                 "upside": {
                     "note": 3,
-                    "valeur": 12.4
+                    "valeur": 12.8
                 },
                 "recommandation": {
                     "note": 2,
@@ -828,8 +828,8 @@
                     "valeur": 16.3
                 },
                 "momentum": {
-                    "note": 1,
-                    "valeur": -1.5
+                    "note": 2,
+                    "valeur": 2.1
                 },
                 "marge": {
                     "note": 2,
